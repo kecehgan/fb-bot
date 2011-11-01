@@ -2,7 +2,7 @@
 
 /**
  * PHP Curl status update script
- * @since Sep 29 2011
+ * @since Sep 2010
  * @version 1.0
  * @link http://360percents.com/posts/php-curl-status-update-working-example/
  * @author Luka Pušić <pusic93@gmail.com>
