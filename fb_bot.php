@@ -7,6 +7,7 @@
  * @link http://360percents.com/posts/php-curl-status-update-working-example/
  * @author Luka Pušić <pusic93@gmail.com>
  */
+
 /**
  * Required parameters
  */

@@ -1,0 +1,7 @@
+
+Instructions:
+-open fb_bot.php and edit email and password fields
+-run it
+
+Requirements:
+-php curl extension
