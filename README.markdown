@@ -22,7 +22,7 @@ Facebook status update bot updates your Facebook status without any API's, just 
 * Full code rework, more functions, easier to extend the script.
 
 ## Known issues
-* Facebook's new device checking causes this script to fail
+* 
 
 ## License
 ----------------------------------------------------------------------------
