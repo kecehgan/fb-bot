@@ -6,7 +6,7 @@ Author: Luka Pusic <luka@pusic.si>
 Author URL: http://360percents.com
 
 ## Description
-Facebook status update bot updates your Facebook status without any API's, just with PHP's curl extension.
+Facebook status update bot updates your Facebook status without any APIs, just with PHP's curl extension.
 
 
 ## System requirements
@@ -27,7 +27,7 @@ Facebook status update bot updates your Facebook status without any API's, just 
 ## License
 ----------------------------------------------------------------------------
 "THE BEER-WARE LICENSE" (Revision 42):
-<pusic93@gmail.com> wrote this file. As long as you retain this notice you
+<luka@pusic.si> wrote this file. As long as you retain this notice you
 can do whatever you want with this stuff. If we meet some day, and you think
 this stuff is worth it, you can buy me a beer in return. Luka Pusic
 ----------------------------------------------------------------------------
