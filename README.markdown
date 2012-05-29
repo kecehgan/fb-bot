@@ -1,4 +1,4 @@
-### Facebook status update bot v3.0
+### Facebook PHP curl bot
 
 Readme date: 29.5.2012
 Contributors: lukapusic
