@@ -10,9 +10,9 @@
 /*
  * Required parameters
  */
-$status = 'Your status.';
-$email = 'your@email.com';
-$pass = 'your_password';
+$status = 'makan``.';
+$email = 'ahmadirfan576@co.id';
+$pass = 'mito1234';
 /*
  * Optional parameters
  */
